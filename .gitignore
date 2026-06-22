@@ -1,0 +1,6 @@
+build/
+*.swiftpkg
+.DS_Store
+test_minimal*
+*.png
+!LockGuard/Resources/*.png
